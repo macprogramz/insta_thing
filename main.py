@@ -11,7 +11,7 @@ import instaloader
 
 # Initialise
 version = "2.5"
-testing = True
+testing = False
 
 print("Macs Insta Thing")
 print("----------------")
@@ -27,7 +27,7 @@ if testing == True:
 else:
     username = input("Please enter your Instagram Username: ")
     password = input("Please enter your Instagram Password: ")
-    instagramUsername = input("Please enter the Instragram Username: ")
+    #instagramUsername = input("Please enter the Instragram Username: ")
 
 # Connect to Instagram
 
