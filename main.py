@@ -25,7 +25,7 @@ if testing == True:
     #instagramUsername = "boston___smith"
 
 else:
-    username = input("Please enter your Instagram Username: ")
+    instagramUsername = input("Please enter your Instagram Username: ")
     password = input("Please enter your Instagram Password: ")
     #instagramUsername = input("Please enter the Instragram Username: ")
 
